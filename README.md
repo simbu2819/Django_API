@@ -2,6 +2,7 @@
 
 # Intallation packages
 pip install django
+<br>
 pip install djangorestframework
 
 # migrations
